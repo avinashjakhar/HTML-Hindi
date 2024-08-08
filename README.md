@@ -1,2 +1,2 @@
-# HTML-Hindi
+# HTML ,CSS AND JAVASCRIPT
 A code repo for html series
