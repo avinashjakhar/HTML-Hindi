@@ -1,0 +1,26 @@
+/* coolors site */
+h1{
+    background-color: #414141;
+    color:aliceblue;
+    text-decoration: underline;
+
+  }
+p{
+    color: cyan;
+    text-decoration: none;
+}
+button{
+    color: rgb(46, 183, 183);
+    background-color: #414141;
+}
+body{
+    background-color: rgb(100, 35, 150);
+}
+.par{
+    text-align: left;
+    font-weight: 900;
+}
+
+.lo{
+    text-align: end;
+}
