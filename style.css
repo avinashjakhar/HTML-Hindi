@@ -19,6 +19,7 @@ body{
 .par{
     text-align: left;
     font-weight: 900;
+    text-transform: uppercase;
 }
 
 .lo{
