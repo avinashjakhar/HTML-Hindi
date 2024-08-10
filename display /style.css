@@ -1,0 +1,49 @@
+*{
+    margin:0%;
+    padding: 0px;
+    color: aliceblue;
+    
+}
+
+#navbar{
+    background-color: #0f1111;
+    color: aliceblue;
+    height: 60px;
+    width: 100%;
+    
+
+}
+#logo{
+    font-size: 25px;
+    color: rgb(170, 95, 20);
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#
+.contentbox1{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(59, 155, 215, 0.5);
+    border: 2px solid;
+    display: inline-block;
+}
+.contentbox2{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(138, 139, 38, 0.5);
+    border: 2px solid;
+    display: inline-block;
+}
+.contentbox3{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(30, 149, 103, 0.5);
+    border: 2px solid;
+    display: inline-block;
+}
