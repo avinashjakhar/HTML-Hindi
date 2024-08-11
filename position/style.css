@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black ;
+}
+h1{
+    color:black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+     position: static;
+     top: 10px;
+}
+#box2{
+    position: relative;
+    top: 10px;
+    right:20px;
+
+}
+#box3{
+    position: sticky;
+    top:0px;
+    left:1110px;
+
+}
+#box4{
+    position: fixed;
+    top:0px;
+
+}
