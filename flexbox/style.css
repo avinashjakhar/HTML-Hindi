@@ -1,0 +1,42 @@
+h1{
+    color: black;
+    text-align: center;
+}
+#container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid lightskyblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+div{
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    
+    border: 2px solid black; 
+}
+#box1{
+    background-color: aqua;
+    
+}
+#box2{
+    background-color: aquamarine;
+
+}
+#box3{
+    background-color: blueviolet;
+}
+#box4{
+    background-color: burlywood;
+}
+#box5{
+    background-color: darkgoldenrod;
+}
+*{
+    text-align: center;
+    
+}
