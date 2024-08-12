@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 8px solid #5EEB5B;
+    border-top: 8px solid #AFCBFF;
+   
+    border-radius: 50%;
+    animation: identifier 2s ease-in 0s infinite;
+    
+
+}
+@keyframes identifier {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
